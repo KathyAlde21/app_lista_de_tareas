@@ -1,4 +1,4 @@
-**<h>Desarrollo de las Preguntas requerimiento App Lista de Tareas</h>**
+**<h1>Desarrollo de las Preguntas requerimiento App Lista de Tareas</h1>**
 
 **<h3>:blue_book: 1. Investigar y explicar brevemente qué son los patrones de diseño y por qué usar MVVM en Android:</h3>**
 
